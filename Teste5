@@ -1,0 +1,5 @@
+Teste 5:
+
+texto = "Este texto será invertido"
+
+print(texto[::-1])
